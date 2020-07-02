@@ -1,1 +1,1 @@
-# SolarSystem by Setu
+# Solar System by Setu
